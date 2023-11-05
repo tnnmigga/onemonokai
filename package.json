@@ -1,0 +1,37 @@
+{
+    "name": "tnnmigga-dark",
+    "displayName": "tnnmigga-dark",
+    "description": "",
+    "version": "0.0.3",
+    "publisher": "tnnmigga",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "tnnmigga-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tnnmigga-dark-color-theme.json"
+            },
+            {
+                "label": "onemonokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneMonokai-color-theme.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "0e5dd105-ed19-496e-bc27-8b905432347b",
+        "publisherId": "e5e1d4c3-1fed-45d6-8a83-40103c9d1114",
+        "publisherDisplayName": "tnnmigga",
+        "isPreReleaseVersion": false,
+        "preRelease": false,
+        "installedTimestamp": 1697905441840,
+        "targetPlatform": "undefined",
+        "updated": false
+    }
+}
